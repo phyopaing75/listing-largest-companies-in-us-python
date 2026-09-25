@@ -1,4 +1,4 @@
-# Web Scraping Largest US Companies by Revenue
+# Listing Largest US Companies by Revenue
 
 An automated Python web scraping pipeline that extracts, parses, and structures corporate financial data from Wikipedia's list of the top 100 largest United States companies by revenue.
 
