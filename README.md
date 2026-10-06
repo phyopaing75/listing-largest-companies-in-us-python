@@ -50,7 +50,7 @@ All figures are calculated from `us-largest-companies.csv`.
 1. **The 100 companies earn $13.05 trillion in total revenue** and employ about 16.2 million people.
 2. **Revenue is concentrated at the top.** The top 10 companies make 32% of the total and the top 5 make 19%. Walmart ($681 billion) earns about 15 times as much as the 100th company, Eli Lilly ($45 billion).
 3. **Financials is the biggest industry label by company count.** It has 16 of the 100 companies and $1.87 trillion in revenue. Petroleum has 9 companies and $1.21 trillion.
-4. **Most companies grew.** The median revenue growth is 5.05% and 19 of the 100 companies had falling revenue. Nvidia grew the most (114.2%), followed by StoneX Group (64.1%) and Broadcom (46.4%). Deere (-15.6%), Boeing (-14.5%) and Valero Energy (-10.8%) fell the most.
+4. **Most companies grew.** 19 of the 100 companies had falling revenue. Nvidia grew the most (114.2%), followed by StoneX Group (64.1%) and Broadcom (46.4%). Deere (-15.6%), Boeing (-14.5%) and Valero Energy (-10.8%) fell the most.
 5. **Headquarters cluster in a few states.** Texas has 17 of the 100 head offices, New York 15 and California 11.
 6. **The largest employers are retailers and delivery firms.** Walmart (2,100,000), Amazon (1,556,000), The Home Depot (470,100), Target (440,000) and FedEx (422,100) have the most employees.
 
